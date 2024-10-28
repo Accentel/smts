@@ -1,0 +1,44 @@
+table{
+    width: 85%;
+    margin:auto;
+    border-collapse:collapse;
+    border: 1px solid black;
+    }
+    table td{line-height:25px;padding-left:15px;}
+    table th{background-color:#ffffff; color:#363636;}
+    th, td {
+      padding: 5px;
+    }
+    th {
+      text-align: left;
+    }
+    p.double {border-style: double;}
+    div {
+      border: 2px solid black;
+      margin: 50px 50px 50px 50px;
+      background-color: white;
+      border-style: double;
+    }
+    .myImage {
+            width: 280px;
+            height: 100px;
+            object-fit: none;
+            object-position: left top;
+            margin-left: 10px;
+            margin-top: 20px;
+    }
+    #smts
+    {
+        vertical-align: top;
+        float: right;
+        text-align: left;
+        margin-top: 36px;
+        margin-right:10px;
+    
+    }
+    .box-1{
+      background-color: white;
+      border-width: 5px;
+      border-color: black;
+      border-style: double;
+    }
